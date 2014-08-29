@@ -1,24 +1,21 @@
 {
-  "name": "angular-detect-browser",
+  "name": "detect-mobile-browser",
   "version": "0.0.0",
   "authors": [
     "vrebierr <vrebierr@student.42.fr>"
   ],
   "main": [
-    "detectmobilebrowser.js",
-    "angular-detect-browser.js"
+    "detectmobilebrowser.js"
   ],
   "dependencies": {
-    "jquery": "1.11.0",
-    "angular": "1.2.23"
+    "jquery": "1.11.*"
   },
   "keywords": [
-    "angular",
-    "angularjs",
     "detect",
     "mobile",
-    "browser"
+    "browser",
+    "jquery"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/vrebierr/angular-detect-browser"
+  "homepage": "https://github.com/vrebierr/detect-mobile-browser"
 }
