@@ -5,8 +5,8 @@
     "vrebierr <vrebierr@student.42.fr>"
   ],
   "main": [
-    "detectmobilebrowser.js"
-    "angular-detect-browser.js",
+    "detectmobilebrowser.js",
+    "angular-detect-browser.js"
   ],
   "dependencies": {
     "jquery": "1.11.0",
@@ -20,5 +20,5 @@
     "browser"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/vrebierr/angular-detect-browser",
+  "homepage": "https://github.com/vrebierr/angular-detect-browser"
 }
