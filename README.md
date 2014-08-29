@@ -7,10 +7,10 @@ The missing detectmobilebrowser bower-package for jQuery
 
 ```javascript
 if (Jquery.browser.mobile == true) {
-	console.log('It's a mobile');
+	console.log("It's a mobile");
 }
 else {
-	console.log('It's not a mobile');
+	console.log("It's not a mobile");
 }
 ```
 
