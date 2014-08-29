@@ -6,7 +6,7 @@ The missing detectmobilebrowser bower-package for jQuery
 <h1>Usage:</h1>
 
 ```javascript
-if (Jquery.browser.mobile) {
+if (jQuery.browser.mobile) {
 	console.log("It's a mobile");
 }
 else {
