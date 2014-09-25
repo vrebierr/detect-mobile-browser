@@ -16,6 +16,5 @@
     "browser",
     "jquery"
   ],
-  "license": "Free",
   "homepage": "https://github.com/vrebierr/detect-mobile-browser"
 }
