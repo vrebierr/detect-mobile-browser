@@ -1,6 +1,6 @@
 {
   "name": "detect-mobile-browser",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "vrebierr <vrebierr@student.42.fr>"
   ],
@@ -16,6 +16,6 @@
     "browser",
     "jquery"
   ],
-  "license": "MIT",
+  "license": "Free",
   "homepage": "https://github.com/vrebierr/detect-mobile-browser"
 }
